@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Git_Flow"
         tools:targetApi="31">
         <activity
+            android:name=".DannyRomero"
+            android:exported="false" />
+        <activity
             android:name=".Mascotas"
             android:exported="false" />
         <activity
