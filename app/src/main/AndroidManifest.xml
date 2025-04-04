@@ -18,6 +18,9 @@
          <activity
             android:name=".DannyRomero"
             android:exported="false" />
+         <activity
+            android:name=".Marlon_C"
+            android:exported="false" />
         <activity
             android:name=".Mascotas"
             android:exported="false" />
