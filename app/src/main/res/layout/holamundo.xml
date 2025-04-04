@@ -19,6 +19,6 @@
         android:layout_height="wrap_content"
         android:text="XXD"
         android:textSize="40dp"
-        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteX="36dp "
         tools:layout_editor_absoluteY="353dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
