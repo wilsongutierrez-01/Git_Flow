@@ -15,6 +15,9 @@
         <activity
             android:name=".mauricio_maravilla"
             android:exported="false" />
+         <activity
+            android:name=".DannyRomero"
+            android:exported="false" />
         <activity
             android:name=".Mascotas"
             android:exported="false" />
