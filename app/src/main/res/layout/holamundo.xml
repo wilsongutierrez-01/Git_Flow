@@ -17,7 +17,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="XD"
+        android:text="XXD"
         android:textSize="40dp"
         tools:layout_editor_absoluteX="46dp"
         tools:layout_editor_absoluteY="353dp" />
