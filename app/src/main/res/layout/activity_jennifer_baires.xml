@@ -10,9 +10,26 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Jennifer Baires"
-        android:textSize="50sp"
-        tools:layout_editor_absoluteX="50dp"
-        tools:layout_editor_absoluteY="350dp" />
+        android:text="Mi nombre es: Jennifer Baires"
+        android:textSize="25sp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="32dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mi materia favorita es: Habilidad Laboral"
+        android:textSize="25sp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Me gustan los Caballeros del Zodiaco"
+        android:textSize="25sp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="160dp" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
