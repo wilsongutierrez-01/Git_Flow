@@ -8,17 +8,17 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ALEXIS"
-        android:textSize="89dp"
-        tools:layout_editor_absoluteX="60dp"
-        tools:layout_editor_absoluteY="144dp" />
+        android:text="Me gusta Ataque a los titanes"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="141dp" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="XXD"
-        android:textSize="40dp"
-        tools:layout_editor_absoluteX="36dp "
-        tools:layout_editor_absoluteY="353dp" />
+        android:text="Me gusta progra y redes a veces"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="231dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
